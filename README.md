@@ -1,5 +1,3 @@
-link : https://share.vidyard.com/watch/gZQaWpBGBLJDmAfpCfZhvX?
-email: oceanezara@yahoo.fr
 
 ⚠️ This project is mandatory for certification bloc #2.
 ![Tinder](https://full-stack-assets.s3.eu-west-3.amazonaws.com/M03-EDA/Tinder-Symbole.png)
